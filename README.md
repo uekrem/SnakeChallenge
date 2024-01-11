@@ -5,6 +5,4 @@ Bu yılan oyunu, klasik yılan oyunlarından farklı olarak pop-up şeklinde map
 2. Yılan Boyunun Uzaması: Oyunculara puan kazanmadan yılanın boyunun uzamasını sağlayan bu özellik, oyunculara puanları artırmadan oyunu daha kısıtlı bir alanda daha zorlu bir deneyimle oynamalarına imkan tanır. Yılanın boyunun uzama oranı, tamamen kullanıcının skoruna bağlı olarak belirlenir.
 3. Ekstra Puan Alma: Oyunculara normal puan kazanma şansı dışında ekstra puanlar kazanma fırsatı sunar.
 ### Kullanım:
-snake.html sayfasını tarayacınızdan açmanız yeterli olacaktır . Yılanınızı klavye ok tuşları ile yönlendirin. Ancak, pop-up özellikleri beklenmedik anlarda ortaya çıkacak ve oyunun akışını değiştirecektir.
-
-https://uekrem.github.io/SnakeChallenge/snake.html
+[snake.html](https://uekrem.github.io/SnakeChallenge/snake.html) linkine tıklamanız yeterli olacaktır . Yılanınızı klavye ok tuşları ile yönlendirin. Ancak, pop-up özellikleri beklenmedik anlarda ortaya çıkacak ve oyunun akışını değiştirecektir.
