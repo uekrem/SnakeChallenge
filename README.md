@@ -6,3 +6,5 @@ Bu yılan oyunu, klasik yılan oyunlarından farklı olarak pop-up şeklinde map
 3. Ekstra Puan Alma: Oyunculara normal puan kazanma şansı dışında ekstra puanlar kazanma fırsatı sunar.
 ### Kullanım:
 snake.html sayfasını tarayacınızdan açmanız yeterli olacaktır . Yılanınızı klavye ok tuşları ile yönlendirin. Ancak, pop-up özellikleri beklenmedik anlarda ortaya çıkacak ve oyunun akışını değiştirecektir.
+
+https://uekrem.github.io/SnakeChallenge/snake.html
